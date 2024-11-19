@@ -1,6 +1,6 @@
 # 割草游戏
 
-Open sourced with the courtesy of [Y8.com](https://www.y8.com)
+Open sourced with the courtesy of [Y8游戏预览](https://zh.y8.com/games/slash_the_hordes)
 
 # Slash The Hordes
 #### A rougelite game, heavily inspired by [Vampire Survivors](https://poncle.itch.io/vampire-survivors)
